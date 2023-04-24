@@ -1,0 +1,23 @@
+{
+    "name": "SHA256",
+    "fields": {
+        "String Input One": {
+            "label": "String Input One",
+            "type": "string",
+            "readOnly": false,
+            "calculate": null
+        },
+        "String Input Two": {
+            "label": "String Input two",
+            "type": "string",
+            "readOnly": false,
+            "calculate": null
+        },
+        "SHA256": {
+            "label": "SHA256",
+            "type": "string",
+            "readOnly": true,
+            "calculate": "SHA256"
+        }
+    }
+}

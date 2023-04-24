@@ -1,0 +1,83 @@
+{
+    "name": "Mean/Median/Deviation",
+    "fields": {
+        "A1": {
+            "label": "A1",
+            "type": "int",
+            "readOnly": false,
+            "calculate": null
+        },
+        "A2": {
+            "label": "A2",
+            "type": "int",
+            "readOnly": false,
+            "calculate": null
+        },
+        "A3": {
+            "label": "A3",
+            "type": "int",
+            "readOnly": false,
+            "calculate": null
+        },
+        "A4": {
+            "label": "A4",
+            "type": "int",
+            "readOnly": false,
+            "calculate": null
+        },
+        "A5": {
+            "label": "A5",
+            "type": "int",
+            "readOnly": false,
+            "calculate": null
+        },
+        "A6": {
+            "label": "A6",
+            "type": "int",
+            "readOnly": false,
+            "calculate": null
+        },
+        "A7": {
+            "label": "A7",
+            "type": "int",
+            "readOnly": false,
+            "calculate": null
+        },
+        "A8": {
+            "label": "A8",
+            "type": "int",
+            "readOnly": false,
+            "calculate": null
+        },
+        "A9": {
+            "label": "A9",
+            "type": "int",
+            "readOnly": false,
+            "calculate": null
+        },
+        "A10": {
+            "label": "A10",
+            "type": "int",
+            "readOnly": false,
+            "calculate": null
+        },
+        "Mean": {
+            "label": "Mean",
+            "type": "int",
+            "readOnly": true,
+            "calculate": "Mean"
+        },
+        "Median": {
+            "label": "Median",
+            "type": "int",
+            "readOnly": true,
+            "calculate": "Median"
+        },
+        "Standard Deviation": {
+            "label": "Standard_Deviation",
+            "type": "int",
+            "readOnly": true,
+            "calculate": "Standard Deviation"
+        }
+    }
+}
